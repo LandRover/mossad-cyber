@@ -3,4 +3,5 @@ TOOLS:
  * http://base64decode.net - base64 decoder online
  * https://www.onlinedisassembler.com - Online Disassembler
  * http://hash.online-convert.com/crc32-generator - Online Hashing
+ * http://www.md5.cz - MD5 Online
  
