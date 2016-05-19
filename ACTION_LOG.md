@@ -12,3 +12,5 @@ Walktrough:
  2. Open http://130.211.84.170 -> http://130.211.84.170/challenge1/login
  3. Save the LOCK image at the left side bar to ./images/challenge1/logo.png
   * Image URL: http://130.211.84.170/challenge1/get-image?name=logo.png&h=87d41d15f&multiple=0
+ 4. CRC Calculator decode for `87d41d15f` taken from the URL returns `0x2BAD` (funny but hints probably that it is irrelevant or a lucky match)
+ 5. 
