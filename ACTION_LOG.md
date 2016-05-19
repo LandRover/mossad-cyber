@@ -5,7 +5,7 @@ TOOLS:
  * https://www.onlinedisassembler.com - Online Disassembler
  * http://hash.online-convert.com/crc32-generator - Online Hashing
  * http://www.md5.cz - MD5 Online
- * 
+ * https://mh-nexus.de/en/ - HxD for Windows
  
 Walkthrough:
  1. `82d354aa` extracted from image -> HEX2IP -> 130.211.84.170
