@@ -7,7 +7,7 @@ TOOLS:
  * http://www.md5.cz - MD5 Online
  * 
  
-walkthrough:
+Walkthrough:
  1. `82d354aa` extracted from image -> HEX2IP -> 130.211.84.170
  2. Open http://130.211.84.170 -> http://130.211.84.170/challenge1/login
  3. Save the LOCK image at the left side bar to ./images/challenge1/logo.png
@@ -34,6 +34,8 @@ walkthrough:
     * Image URL: http://130.211.84.170/challenge1/get-image?name=a.jpg&h=659692a46&multiple=0
    * `fingerprint.jpg` -> `6ee84f3db18deca2624ff8d39b5fb2d6`.substr(3, 9) -> `84f3db18d`
     * Image URL: http://130.211.84.170/challenge1/get-image?name=fingerprint.jpg&h=84f3db18d&multiple=0
-  * Save all images to `./images/challenge1/`
+  10. Save all images to `./images/challenge1/`
+  11. Upload the image `last-login.png`
+   * Returns an error: `User is already logged in. Try another token or contact support.`
 
 
