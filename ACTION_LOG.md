@@ -37,5 +37,6 @@ Walkthrough:
  10. Save all images to `./images/challenge1/`
  11. Upload the image `last-login.png`
   * Returns an error: `User is already logged in. Try another token or contact support.`
+ 12. 
 
 
