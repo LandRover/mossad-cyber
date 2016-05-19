@@ -37,6 +37,15 @@ Walkthrough:
  10. Save all images to `./images/challenge1/`
  11. Upload the image `last-login.png`
   * Returns an error: `User is already logged in. Try another token or contact support.`
- 12. 
+ 12. Check the XMODEM-CRC for `./images/challenge1/last-login-04f70b70a.png` -> `398e`
+'''
+var crc = require('crc'),
+    fs = require('fs');
+
+var out = crc.crc16xmodem(fs.readFileSync('last-login.png')).toString(16);
+
+console.log(out);
+'''
+
 
 
