@@ -34,8 +34,8 @@ Walkthrough:
     * Image URL: http://130.211.84.170/challenge1/get-image?name=a.jpg&h=659692a46&multiple=0
    * `fingerprint.jpg` -> `6ee84f3db18deca2624ff8d39b5fb2d6`.substr(3, 9) -> `84f3db18d`
     * Image URL: http://130.211.84.170/challenge1/get-image?name=fingerprint.jpg&h=84f3db18d&multiple=0
-  10. Save all images to `./images/challenge1/`
-  11. Upload the image `last-login.png`
-   * Returns an error: `User is already logged in. Try another token or contact support.`
+ 10. Save all images to `./images/challenge1/`
+ 11. Upload the image `last-login.png`
+  * Returns an error: `User is already logged in. Try another token or contact support.`
 
 
