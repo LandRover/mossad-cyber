@@ -48,5 +48,25 @@ console.log(out);
 '''
  13. Use the python to generate fake PNG header with the XMODEM-CRC === `398e`
  14. Login!
+ 15. Notice the new menu options:
+  * Cells
+  * Security Cameras
+  * Door Control
+  * Map
+  * Logout
+ 16. Enter Door Control and take The base64 and decode it:
+  * `UEsDBBQAAAAIAG93rUhABqejpQMAAAAKAAAPAAAARG9vckNvbnRyb2wuZXhl842awMDMwMDAAsT//zMw7GCAAAcGwuAAEPPJ7+Jj2MJ5VnEHo89ZxZCMzGKFgqL89KLEXIXkxLy8/BKFpFSFotI8hcw8BRf/YIXc/JRUPV5eLhWoGTsrlQ/+lfCdBMMKz9sm/QOzfSb9ANINiWsn/QHTk8F0UGZyBkgdzA0BrgwMPozMDPxr7oXBxB4wMDFyM/IwMDBBPQYCAlCsAPUdiA2UZ4NKw2iwx6F6mBkcWsEKBaAGCCCMgoE/QPM08AWSAQODDBFhiQGA5krgkdYrSa0oAdITGBngfoH7FWFEgl5RSmJJIgPDFEaIAFgdG6o6ByDSK0rN​yU+GutUAqo4DQ50TOV4ZBYMXhHa/aXxjAEwcwWHhWayR+yQUHBh6ax98XrpPB8w6k6UaaXy7tzXz////S7OSgwOWdszNALGXLtnnAFKx98K///8/L01buuSFBNCY5iM83YcbSlgf3HBo/iFc8zU4OIs5ONj4W6/vA7ewwP+iDEA9zT/+87c8Aloe3Ov7IzBLsLcXZGJgwH9RFqBs6wH+lqNAyebaHwL8rbuBrO7TXS68Z6xaeEHK+FtXAIUcm38​KFL3s/tywxRRk/6oSTrfGf9OBEkVvu20FQO5y/RIckCWccQPIzvr6/3q3LA+QFfD/chZQ6kdAFnOv65+ArG//rwNt5QDbWspqfMDhdQDQWubSrw21f4xK3zfU/rUofdnl+k/HwIaz/AFI65eALN6MN1BDgcY11P4zLBWFyIT1toIcEwCVMj7wmqn7WHxcdPfT2MPAcO725eFf7yvQerJEtPui8​YHw7lqOgy+ZPq/uPtX8kPnzqvhuV47Yw/SOfx9FBoYoIE4D4jIgtlGEiO9+1LJn+/ZVq1t2b9+2b+P+b2sWrGFItorxL0jNc8nPLyrWy06tBKk7dO/erQmtrbNnzmqZMXt2y6R5LbPnzmo9eej0sWPnj5w9P7v15v2TJ8/fvNk68/y5E7Pmnr//9fTlO7d/zr1/4+HB+ycuH7z/6/TcOzcuz78/t33unbkz5t561j551W5KAQODa15JapFCcmpOjkJeaW5SapGVAgPI4QogH6SmcHEB3a6iiAiHNhBbgbQw​OsDknloSXJLikZiXkpPKwLCLwbkoNbEk1S0zJ9WRIYAlKDUxBcRmYHABs53z84rzQVIM11jDizJLUuEC​3q5Bfq4+xkZ6KTk5NItq7EAAUuYLGEgZ2BgUGPQZXDF4YPDKgMXQ1JDOLhkFAwAAUEsBAhQDFAAAAAgA​b3etSEAGp6OlAwAAAAoAAA8AAAAAAAAAAAAAAIABAAAAAERvb3JDb250cm9sLmV4ZVBLBQYAAAAAAQAB​AD0AAADSAwAAAAA=`
+ 17. Take the decoded Snipit:
+  * `PKowH@
+DoorControl.exe30`cyVqYŐb\ļT<<`T=^^.;+
+&}&
+k'ӓtPfrH
+>k001r3000A=P
+gJhǡzZ
+ ?@4aJ+I(~aD^QJbI"FX: +JOC9^vi|cLaY$zk|^O:i|5Kv.R¿?/M[И#<݇JXph!\58898[@=?<Z#0Kdb`Ql@].gZxA[W
+ܰdNӁEom@r%qz,rPG@s럀omZj|uZү
+J7(}OH뗀,ތ7PC53,Ȅ2>X|\tp_+zDZ/>>nWE( N2 Q~ԲgU[vo߶ookaH/Hs/*N;tޭ	gj1{vˤy-j=yc珜=?'߼:枿;ν'.;7.Ͽ?}3z>ynJk^IjBrjNB^inRj
+ pqݮ6[0:Z\⑘(5$-3'Ց!%(51f`pARXË2KRޮA~>Fz)994j@RH\1x`ʀԐ.PKowH@
+DoorControl.exePK=` 
 
 
