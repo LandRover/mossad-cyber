@@ -46,6 +46,7 @@ var out = crc.crc16xmodem(fs.readFileSync('last-login.png')).toString(16);
 
 console.log(out);
 '''
-
+ 13. Use the python to generate fake PNG header with the XMODEM-CRC === `398e`
+ 14. Login!
 
 
